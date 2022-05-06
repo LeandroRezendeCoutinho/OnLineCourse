@@ -1,0 +1,12 @@
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/bin/Debug/net6.0/OnLineCourse.Domain.deps.json
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/bin/Debug/net6.0/OnLineCourse.Domain.dll
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/bin/Debug/net6.0/OnLineCourse.Domain.pdb
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.csproj.AssemblyReference.cache
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.AssemblyInfoInputs.cache
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.AssemblyInfo.cs
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.csproj.CoreCompileInputs.cache
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.dll
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/refint/OnLineCourse.Domain.dll
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/OnLineCourse.Domain.pdb
+/home/leandro/Projects/Leandro/dotnet/OnLineCourse/src/OnLineCourse.Domain/obj/Debug/net6.0/ref/OnLineCourse.Domain.dll

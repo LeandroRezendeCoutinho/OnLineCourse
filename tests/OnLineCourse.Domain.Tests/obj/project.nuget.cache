@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YBYRXNmjTxrbAxVWzC/4EvJ7/0Co+gt3wNuaLEf8eS3srK/jCFSvQinH0RVMiXnHSx2DPQZfon/rYVzBZBYK7A==",
+  "dgSpecHash": "gXR/WX7hVPA/4PoE/qSr8N25LluePFf7R4p7Ead6ZD8qL6C2nL2YJ6mTYCpKKXZELgvd2efaRB/VgWidJgCyeg==",
   "success": true,
   "projectFilePath": "/home/leandro/Projects/Leandro/dotnet/OnLineCourse/tests/OnLineCourse.Domain.Tests/OnLineCourse.Domain.Tests.csproj",
   "expectedPackageFiles": [
